@@ -1,11 +1,15 @@
-# ng-conf-2016 Hackathon Starter Project
+# angular2-starter-kit
 
-For the installation and update of npm and node click <a href="https://github.com/attribesolution/ng-conf-2016-hackathon-app/wiki/npm-&-node-Installation-or-update">here</a>
+Typescript + Angular + BrowserSync (for live reloading)
+
+Required: 
+Node 4.4+
+NPM: 3.0+
+
 ### Steps:
 
-```bash
-$ git clone https://github.com/attribesolution/ng-conf-2016-hackathon-app.git
-$ cd ng-conf-2016-hackathon-app/ or 'path to ng-conf-2016-hackathon-app folder'
-$ npm install
-$ npm run start
-```
+- `git clone <repo_url>`
+- cd into the folder 
+- `npm install`
+- `npm run start`
+
